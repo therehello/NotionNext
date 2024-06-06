@@ -33,7 +33,7 @@ const Style = () => {
   .notion {
     margin-top: 0 !important;
     margin-bottom: 0 !important;
-    font-size: 1.175rem;
+    font-size: 1.1rem;
   }
   
   
